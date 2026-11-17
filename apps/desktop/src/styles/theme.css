@@ -1,0 +1,13 @@
+
+:root {
+  color-scheme: dark;
+
+  --aris-bg: #07121F;
+  --aris-surface: #10283B;
+  --aris-cyan: #00D9FF;
+  --aris-blue: #38A9FF;
+  --aris-highlight: #B8F5FF;
+  --aris-text: #E8F7FC;
+  --aris-muted: #829BAC;
+  --aris-border: #18364A;
+}
